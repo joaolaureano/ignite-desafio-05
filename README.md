@@ -40,19 +40,9 @@ A aplicação possui dois módulos: `users` e `games`. Um **usuário** pode ter 
 - Clone o repositório
 
 ```
-https://github.com/code36u4r60/ignite-desafio-database-queries.git
-```
 
-ou
+https://github.com/joaolaureano/ignite-desafio-05.git
 
-```
-git@github.com:code36u4r60/ignite-desafio-database-queries.git
-```
-
-ou
-
-```
-gh repo clone code36u4r60/ignite-desafio-database-queries
 ```
 
 - Entrar na pasta do projeto
