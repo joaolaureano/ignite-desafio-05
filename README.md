@@ -48,7 +48,7 @@ https://github.com/joaolaureano/ignite-desafio-05.git
 - Entrar na pasta do projeto
 
 ```
-cd ignite-desafio-componentizando-a-aplicacao
+cd ignite-desafio-05
 ```
 
 - Instale as dependências com o Yarn
